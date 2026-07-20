@@ -1,9 +1,0 @@
-.ipynb_checkpoints/
-__pycache__/
-
-lab_utils_common.py
-lab_utils_uni.py
-deeplearning.mplstyle
-
-data/
-betaversion/
