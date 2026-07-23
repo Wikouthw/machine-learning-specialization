@@ -7,6 +7,7 @@
 **/lab_utils_uni.py
 **/lab_utils_multi.py
 **/deeplearning.mplstyle
+**/plt_*.py
 
 # Exclude raw data/archives
 **/data/
