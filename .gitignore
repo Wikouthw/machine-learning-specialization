@@ -1,14 +1,14 @@
-# Cache folders anywhere in the project
 **/.ipynb_checkpoints/
 **/__pycache__/
 
-# Specific course script clutter
 **/lab_utils_common.py
 **/lab_utils_uni.py
 **/lab_utils_multi.py
 **/deeplearning.mplstyle
 **/plt_*.py
+**/public_tests.py
+**/test_utils.py
+**/utils.py
 
-# Exclude raw data/archives
 **/data/
 **/archive/
